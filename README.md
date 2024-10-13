@@ -1,0 +1,1 @@
+Applied Archimedes principle of areas to approximate the value of Pi up to 9 decimal places. Additionally, utilized a 'throw a dart' simulation to further estimate the value of Pi, demonstrating an understanding of computational methods for approximation.
